@@ -1,0 +1,22 @@
+{
+    "name": "Type repository name here",
+    "identifier": "your.identifier.goes.here",
+    "sourceURL": "https://ursource.url/goes?here",
+    "apps": [
+        {
+            "name": "App name",
+            "bundleIdentifier": "bundle.identifier",
+            "developerName": "Whoisdev",
+            "version": "0.0.1",
+            "versionDate": "2000-03-19T16:50:00+08:00",
+            "versionDescription": "Your app is very cool, and pls write a description here",
+            "downloadURL": "https://urcool.app/download.ipa",
+            "localizedDescription": "Локализированное описание",
+            "iconURL": "https://urcool.app/logo.png",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 7206362,
+            "type": 1
+        }
+    ]
+}
